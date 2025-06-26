@@ -14,4 +14,4 @@ description: >- # this means to ignore newlines until "baseurl:"
   Ini adalah deskripsi singkat untuk situs baru saya.
 
 # Pilih tema yang didukung GitHub Pages
-theme: jekyll-theme-minima
+theme: minima
